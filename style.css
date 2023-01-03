@@ -1,0 +1,33 @@
+.para{
+    font-family : 'Poppins', sans-serif;
+    font-size: 40px;
+    margin-top: 75px;
+    font-weight: 500;
+
+}
+
+.button{
+   padding:10px !important;
+   padding-left: 50px !important;
+   padding-right: 50px !important;
+   color:aliceblue;
+   background-color: orangered;
+   border-radius: 50px;
+   border:0px;
+   font-size: 15px;
+}
+
+.image_group{
+    margin-top: 75px;
+    border-radius: 20% !important;
+    
+}
+.image1{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+
+.modal-body{
+    text-align: center;
+}
